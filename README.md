@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iniitiator
 - 👀 I’m interested in exploring technologies
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning Machine Learning and Data Science 
 - 💞️ I’m looking to collaborate on any good project
 - 📫 How to reach me mail  me at sharmastudying652@gmail.com
 
